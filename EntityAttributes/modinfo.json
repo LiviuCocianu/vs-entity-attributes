@@ -1,0 +1,13 @@
+{
+    "type": "code",
+    "modid": "entityattributes",
+    "name": "Entity Attributes",
+    "authors": [
+        "LivCi"
+    ],
+    "description": "Make entity attribute management easy!",
+    "version": "1.0.0",
+    "dependencies": {
+        "game": ""
+    }
+}
