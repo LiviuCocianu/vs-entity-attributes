@@ -1,4 +1,6 @@
 {
-  "eattr-cmd-desc": "Manage the attributes of an entity",
-  "eattr-cmd-additional": "This command allows you to get all attributes that an entity has, such as current health, max health, weight and so on, modify an existing attribute or adding new ones"
+  "cmd-desc": "Manage the attributes of an entity",
+  "cmd-additional": "This command allows you to get all attributes that an entity has, such as current health, max health, weight and so on, modify an existing attribute or adding new ones",
+  "cmd-revive-desc": "Revives a dead entity",
+  "cmd-revive-additional": "Supports mortally wounded dogs from the Wolf Taming mod too, reviving them"
 }
